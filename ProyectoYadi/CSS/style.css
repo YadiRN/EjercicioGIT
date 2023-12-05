@@ -1,0 +1,19 @@
+body{
+    height: 100%;
+width: 100%;
+display: flex;
+position:fixed;
+align-items: right;
+justify-content: center;}
+
+.fcc-btn {
+    background-color: blueviolet;
+    color: white;
+    padding: 15px 25px;
+    text-decoration:overline;
+    }
+
+.fcc-btn: hover {
+    background-color: #223094;
+}
+
