@@ -17,3 +17,32 @@ justify-content: center;}
     background-color: #223094;
 }
 
+h1 {
+    margin: 0;
+    padding: 0;
+    border: 0cm;
+    position: fixed
+}
+
+IMG/Img1-unsplash.png {
+    width: 100%
+    height:100vh
+}
+
+.worldwide {
+    color:chocolate;
+    front-size: 30px;
+    text-align: right;
+    padding: 0 0 0 100px;
+}
+
+.properties {
+    font-size: 60px
+    line-height 50px
+    font-family: playfair display;
+}
+
+/* start botones */
+.botones {
+    display: flex;
+}
